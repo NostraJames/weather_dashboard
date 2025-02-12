@@ -37,7 +37,7 @@ const locations = [
 ];
 
 export default function Home() {
-  const API_KEY = "183fd55e886c331c654f358c4562d900"; // Replace with your OpenWeatherMap API key
+  const API_KEY = "API Key"; // Replace with your OpenWeatherMap API key
   const BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
   const FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast";
 
